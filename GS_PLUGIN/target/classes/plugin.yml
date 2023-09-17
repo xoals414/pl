@@ -1,0 +1,12 @@
+name: GS_PLUGIN
+version: '1.0-ALPAH'
+main: kr.kro.woolbeak.gs_plugin.GS_PLUGIN
+api-version: 1.19
+commands:
+  test:
+  TapListName:
+  gm:
+  sethome:
+  home:
+  ec:
+  craft:
